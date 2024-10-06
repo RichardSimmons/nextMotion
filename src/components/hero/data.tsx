@@ -18,9 +18,5 @@ export const profileCard = {
       icon: <FaLinkedinIn size={20} />,
     },
   ],
-  tooltip: {
-    imagePath: null,
-    title: "Hey...",
-    subTitle: "That's me!",
-  },
+  
 };
