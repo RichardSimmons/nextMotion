@@ -17,5 +17,14 @@ export const profileCard = {
       url: "https://www.linkedin.com/in/richard-simmons-a3916958/",
       icon: <FaLinkedinIn size={20} />,
     },
+    {
+      url: "https://github.com/yoyocharlie",
+      icon: <IoLogoGithub size={20} />,
+    },
   ],
+  tooltip: {
+    imagePath: "https://avatars.githubusercontent.com/u/106707326?v=4",
+    title: "Hey...",
+    subTitle: "That's me!",
+  },
 };
