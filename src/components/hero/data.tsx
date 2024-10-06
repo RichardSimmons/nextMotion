@@ -17,6 +17,11 @@ export const profileCard = {
       url: "https://www.linkedin.com/in/richard-simmons-a3916958/",
       icon: <FaLinkedinIn size={20} />,
     },
+   
   ],
-  
+  tooltip: {
+    imagePath: "https://media.licdn.com/dms/image/v2/D4E35AQGmBDN7hDp6qw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1712523484384?e=1728856800&v=beta&t=BeEJnco8WoR3iy0-9GFIDFNK7WsiBkX9EbEs76yJ-20",
+    title: "Hey...",
+    subTitle: "That's me!",
+  },
 };
