@@ -9,7 +9,7 @@ export const title = {
 };
 
 export const profileCard = {
-  title: "Jacob Pixler",
+  title: "Richard Simmons",
   subTitle: "Fullstack Software Developer",
   body: `Passionate about building scalable, user-friendly web applications. Always exploring new technologies and best practices to improve development processes. And I like cats.`,
   socialUrls: [
