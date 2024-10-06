@@ -19,7 +19,7 @@ export const profileCard = {
     },
   ],
   tooltip: {
-    //imagePath: "",
+    imagePath: null,
     title: "Hey...",
     subTitle: "That's me!",
   },
