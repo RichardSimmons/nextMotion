@@ -11,8 +11,8 @@ export const timelineData: TimelineEntry[] = [
     title: "React-Speech-To-Text-Transcriber",
     projectUrls: {
       repo: {
-        owner: "yoyocharlie",
-        name: "cs-flashcards-open",
+        owner: "RSimmons2021",
+        name: "React-Speech-To-Text-Transcriber",
         showStarCount: false,
       },
     },
