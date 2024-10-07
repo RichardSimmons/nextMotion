@@ -69,12 +69,12 @@ export const timelineData: TimelineEntry[] = [
     ],
     cards: {
       a: {
-        title: "Modern Reactive UI",
-        text: `This portfolio template offers a clean, modern, and fully responsive design. Built to be sleek and dynamic, it leverages the latest front-end technologies to ensure a smooth and engaging user experience, perfect for showcasing your projects and skills.`,
+        title: "Modern UI, Powerful Music",
+        text: `This music AI generator utilizes a state-of-the-art diffusion model to produce high-quality, dynamic audio. Built with Python, it leverages cutting-edge machine learning techniques to ensure smooth and creative music generation, perfect for experimenting with soundscapes and producing unique compositions.`,
       },
       b: {
-        title: "Easy Customization & Integration",
-        text: `Seamlessly customize the portfolio to fit your unique style and preferences. With support for easy integration into various data sources, this opinionated template is designed to simplify the process of building a single-page application (SPA) portfolio that truly reflects your work.`,
+        title: "Easy Music Generation with AI",
+        text: `Effortlessly fine-tune the music AI generator to suit your creative needs and preferences. With seamless integration into various audio datasets, this powerful Python-based model simplifies the process of generating high-quality, original music compositions, providing a flexible platform for audio experimentation.`,
       },
     },
   }
