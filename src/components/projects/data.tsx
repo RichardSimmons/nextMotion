@@ -58,14 +58,14 @@ export const timelineData: TimelineEntry[] = [
         showStarCount: true,
       },
     },
-    imageUrl: "/images/nextMotion.png",
-    description: `An open-source, opinionated portfolio template for creating a modern, reactive SPA portfolio.`,
+    imageUrl: "/images/AudioDiffusion.png",
+    description: `Apply diffusion models to synthesize music instead of images using the Hugging Face diffusers package`,
     tech: [
-      "TypeScript",
-      "Next.js",
-      "TailwindCSS",
-      "Aceternity UI",
-      "Framer Motion",
+      "Python",
+      "AI",
+      "Machine Learning",
+      "Flask"
+      
     ],
     cards: {
       a: {
