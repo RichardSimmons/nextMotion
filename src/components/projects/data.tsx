@@ -49,7 +49,7 @@ export const timelineData: TimelineEntry[] = [
     title: "Music Generator using diffusion models",
     projectUrls: {
       site: {
-        url: "https://next-motion-five.vercel.app/",
+        url: "music-generation-audio-diffusion/tree/main/Desktop/New folder/music-generation-audio-diffusion",
         icon: <RiExternalLinkLine size={20} />,
       },
       repo: {
