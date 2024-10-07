@@ -45,16 +45,10 @@ export function Form() {
           <span className="flex flex-col items-baseline gap-1 md:flex-row">
             <span>Message</span>
             <span className="font-sans text-xs font-light text-muted-foreground md:text-sm">
-              (try Markdown for fun or use regular text 😎)
+             
             </span>
           </span>
-          <Link
-            target="_blank"
-            href={"https://www.markdownguide.org/cheat-sheet/"}
-            className="mt-2 font-sans text-xs md:ml-auto md:mt-0 md:text-sm"
-          >
-            📃 <span className="underline">Markdown Cheatsheet</span>
-          </Link>
+          
         </label>
         <TextEditor message={message} setMessage={setMessage} />
         <Button className="mt-3 w-1/2">
