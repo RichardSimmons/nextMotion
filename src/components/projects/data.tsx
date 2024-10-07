@@ -46,16 +46,16 @@ export const timelineData: TimelineEntry[] = [
     },
   },
   {
-    title: "nextMotion",
+    title: "Music Generator using diffusion models",
     projectUrls: {
       site: {
         url: "https://next-motion-five.vercel.app/",
         icon: <RiExternalLinkLine size={20} />,
       },
       repo: {
-        name: "nextMotion",
-        owner: "yoyocharlie",
-        showStarCount: true,
+        name: "music-generation-audio-diffusion/tree/main/Desktop/New folder/music-generation-audio-diffusion",
+        owner: "RSimmons2021",
+        showStarCount: false,
       },
     },
     imageUrl: "/images/AudioDiffusion.png",
