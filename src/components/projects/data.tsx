@@ -42,7 +42,7 @@ export const timelineData: TimelineEntry[] = [
     title: "Music Generator using diffusion models",
     projectUrls: {
       site: {
-        //url: "https://github.com/RSimmons2021/music-generation-audio-diffusion/tree/main/Desktop/New%20folder/music-generation-audio-diffusion",
+        url: "",
         icon: <RiExternalLinkLine size={20} />,
       },
       repo: {
