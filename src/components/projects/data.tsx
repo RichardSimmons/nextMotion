@@ -8,7 +8,7 @@ export const sectionHeading = {
 
 export const timelineData: TimelineEntry[] = [
   {
-    title: "cs-flashcards",
+    title: "React-Speech-To-Text-Transcriber",
     projectUrls: {
       repo: {
         owner: "yoyocharlie",
@@ -17,31 +17,24 @@ export const timelineData: TimelineEntry[] = [
       },
     },
     imageUrl: "/images/cs-flashcards.png",
-    description: `A fullstack flashcards web app that I maintain as a valuable learning resource for both myself and the developer community. By open-sourcing this project, I aim to share knowledge and provide a practical tool for others to learn and grow in their development journey.`,
+    description: `A sleek, modern React application that enables users to easily record voice notes and securely send them to an encrypted backend transcription service. By providing a streamlined interface with Material UI, this app ensures a smooth user experience, offering a reliable tool for converting voice recordings into text while maintaining data privacy and security.`,
     tech: [
       "TypeScript",
-      "Next.js",
+      "Javascript",
+      "ReactJS",
+      "Node.js",
       "TailwindCSS",
-      "shadcn/ui",
-      "tRPC",
-      "Prisma",
-      "Docker",
-      "Vercel Postgres",
+      "Material UI",
+      "Postgres",
     ],
     cards: {
       a: {
-        title: "Comprehensive Learning Tool",
-        text: `Built with TypeScript and Next.js, this app offers a robust
-              platform to enhance your development skills. It's
-              open-sourced to provide a practical tool and valuable knowledge to
-              developers at any stage.`,
+        title: "Comprehensive Audio Tool",
+        text: `Built with TypeScript and React, this app offers a powerful platform for recording and transcribing voice notes through a secure backend service. It's open-sourced to provide a practical tool and valuable resource for developers, enabling seamless voice-to-text conversion while fostering learning and collaboration across all skill levels.`,
       },
       b: {
-        title: "Easy Integration with Your DB of Choice",
-        text: `Effortlessly integrate with your preferred database, including
-              SQLite for local use. Utilizing Prisma and tRPC, this app offers a
-              flexible and scalable backend setup, making it easy to adapt and
-              manage your data needs as you develop and expand your project.`,
+        title: "Easy Integration",
+        text: `Effortlessly integrate with your preferred database, including PostgreSQL for secure and scalable data management. Leveraging modern tools, this app provides a flexible and robust backend setup, ensuring smooth handling of your voice recordings and transcriptions as your project grows`,
       },
     },
   },
@@ -49,7 +42,7 @@ export const timelineData: TimelineEntry[] = [
     title: "Music Generator using diffusion models",
     projectUrls: {
       site: {
-        url: "https://github.com/RSimmons2021/music-generation-audio-diffusion/tree/main/Desktop/New%20folder/music-generation-audio-diffusion",
+        url: "music-generation-audio-diffusion/tree/main/Desktop/New folder/music-generation-audio-diffusion",
         icon: <RiExternalLinkLine size={20} />,
       },
       repo: {
