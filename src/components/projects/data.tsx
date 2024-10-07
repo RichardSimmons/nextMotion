@@ -16,7 +16,7 @@ export const timelineData: TimelineEntry[] = [
         showStarCount: false,
       },
     },
-    imageUrl: "/images/cs-flashcards.png",
+    imageUrl: "/images/My_Profile_Screen.png",
     description: `A sleek, modern React application that enables users to easily record voice notes and securely send them to an encrypted backend transcription service. By providing a streamlined interface with Material UI, this app ensures a smooth user experience, offering a reliable tool for converting voice recordings into text while maintaining data privacy and security.`,
     tech: [
       "TypeScript",
