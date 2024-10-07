@@ -46,7 +46,7 @@ export const timelineData: TimelineEntry[] = [
         icon: <RiExternalLinkLine size={20} />,
       },
       repo: {
-        name: "music-generation-audio-diffusion/tree/main/Desktop/New folder/music-generation-audio-diffusion",
+        name: "https://github.com/RSimmons2021/music-generation-audio-diffusion",
         owner: "RSimmons2021",
         showStarCount: false,
       },
